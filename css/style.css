@@ -75,6 +75,60 @@ nav li {
 	
 }
 
+/* Costumer Testimonials */
+
+.testimonials{
+	width: 100%;
+	padding: 100px 0;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.testimonials img {
+	width: 130px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+
+/* Projects */
+
+.projects{
+	width: 100%;
+	padding: 100px 0;
+	background-color: #efefef;	
+}
+
+.project-box {
+	background-color: #f8f8f8;
+}
+.project-text {
+	padding: 10px 20px;
+}
+
+.project-link{
+	font-size: .7em;
+	text-transform: uppercase;
+	letter-spacing: .09em;
+	font-weight: 600;
+	text-decoration: none;
+	
+}
+
+/* Locations */
+
+.Locations{
+	width: 100%;
+	padding: 100px 0;
+}
+
+
+
+
+
+
+
+
+
 
 
 
