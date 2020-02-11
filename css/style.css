@@ -150,6 +150,73 @@ nav li {
 	
 }
 
+/* Memberships */
+.memberships {
+ 	width: 100%;
+	padding: 100px 0;
+	background-color: #efefef;
+}
+
+.membership-free,
+.membership-montly,
+.membership-yearly {
+	font-size: 2em;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0;
+}
+
+.membership-free {
+	background-color: #a3a3a3;
+}
+
+.membership-montly {
+	background-color: #6e6e6e;
+}
+
+.membership-yearly {
+	background-color: #a3a3a3;
+}
+
+.membership-cost{
+	font-size:1.2em;
+	font-weight:900;
+	text-align: center;
+	padding:10px 0;
+	margin-bottom: 20px;
+	background-color: #dedede;
+}
+
+.membership-features {
+	text-align: center;
+	background-color: #f6f6f6;
+	padding-bottom: 20px;
+}
+
+.membership-features ul {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+.membership-features li { 
+	list-style: none outside none;
+}
+
+.membership-btn {
+margin: 30px auto;
+	
+}
+
+.membership-btn a {
+	border-radius: 5px;
+	background-color: #dedede;
+	padding: 10px 30px;
+	font-size: .9em;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #515255;
+}
 
 
 
