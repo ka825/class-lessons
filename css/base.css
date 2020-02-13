@@ -134,20 +134,7 @@ line-height: 1.2em;
 	margin-right: 0;
 }
 
-/* Buttons */
 
-.drk-otl-btn{
-	display: inline-block;
-	padding: 5px 15px;
-	text-align: center;
-	font-weight: 400;
-	border: 1px solid #000000;
-	border-radius: 5px;
-	margin: 0 0 20px 0;
-	cursor: pointer;
-	
-	
-}
 
 
 
@@ -200,15 +187,65 @@ img {
 	text-align: center;
 }
 
+/* Buttons */
+
+.button-lesson {
+	width: 100%;
+	padding: 100px;
+	background-color: #94ddff;
+	}
+
+.solid-btn{
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: #7dbbe6;
+	font-size: 20px;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	cursor: pointer;
+	color: #0000000;
+}
+
+.solid-btn:hover {
+	background-color: #7199b3;
+}
+
+.lt-otl-btn {
+display: inline-block;
+	padding: 12px 25px;
+	font-size: 20px;
+	border: 1px solid #ffffff;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	cursor: pointer;
+	color: #ffffff;
+}
+
+.lt-otl-btn:hover {
+	color: #000000;
+	border-color: #000000;
+}
 
 
 
+.drk-otl-btn {
+display: inline-block;
+	padding: 12px 25px;
+	font-size: 20px;
+	border: 1px solid #000000;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	cursor: pointer;
+	color: #000000;
+}
 
-
-
-
-
-
+.drk-otl-btn:hover {
+	color: #7a7373;
+	border-color: #7A7373;
+}
 
 
 
