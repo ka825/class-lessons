@@ -198,17 +198,17 @@ img {
 .solid-btn{
 	display: inline-block;
 	padding: 15px 25px;
-	background-color: #7dbbe6;
+	background-color: #a3a3a3;;
 	font-size: 20px;
 	border-radius: 5px;
 	margin-bottom: 20px;
 	text-decoration: none;
 	cursor: pointer;
-	color: #0000000;
+	color: #ffffff;
 }
 
 .solid-btn:hover {
-	background-color: #7199b3;
+	background-color: #6e6e6e;
 }
 
 .lt-otl-btn {
@@ -252,7 +252,7 @@ display: inline-block;
 .solid-submit-btn{
 	display: inline-block;
 	padding: 12px 25px;
-	background-color: #7dbbe6;
+	background-color: #a3a3a3;
 	font-size: 20px;
 	border: none;
 	border-radius: 25px;
@@ -263,7 +263,7 @@ display: inline-block;
 }
 
 .solid-submit-btn:hover {
-	background-color: #7199b3;
+	background-color: #6e6e6e;
 }
 
 .lt-otl-submit-btn {
